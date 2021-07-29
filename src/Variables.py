@@ -12,9 +12,9 @@ list=["apple","banana"]
 print(list)
 tuple=("apple","banana")
 print(tuple)
-range=range(3)
+range=range(3)#Range specification of 0 to 3
 print(range)
-set = {1,2,2,3}
+set = {1,2,2,3}#No Duplicates
 print(set)
 
 #Boolean
