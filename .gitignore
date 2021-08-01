@@ -2,3 +2,4 @@
 *.pydevproject
 __pycache__
 /.idea
+/src/.vscode/settings.json
